@@ -1,0 +1,65 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.11
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.7
+    start_time: 1727839166
+    t:
+      1:
+      - 1
+      2:
+      - 1
+      3:
+      - 13
+      - 19
+      4: 3.9.7
+      5: 0.12.11
+      8:
+      - 5
+batch_size:
+  desc: null
+  value: 20
+fc1_input_size:
+  desc: null
+  value: 241920
+lat_lim:
+  desc: null
+  value: 20
+lead:
+  desc: null
+  value: 20
+learning_rate:
+  desc: null
+  value: 0.001
+mjo_ind:
+  desc: null
+  value: ROMI
+nfc1:
+  desc: null
+  value: 500
+nfc2:
+  desc: null
+  value: 200
+nfc3:
+  desc: null
+  value: 50
+num_epochs:
+  desc: null
+  value: 50
+num_filters_enc:
+  desc: null
+  value: 64
+optimizer:
+  desc: null
+  value: SGD
+outChannels:
+  desc: null
+  value: 2
+vn:
+  desc: null
+  value: olr
